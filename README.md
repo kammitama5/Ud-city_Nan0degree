@@ -16,3 +16,11 @@ Coursework and Projects for this course
 ![Turtle start](turtle_000.png)
 
 ![Turtle end](turtle_001.png)
+
+## Making a movie Website that displays trailers for and gives descriptions of your favourite movies! (Chapter 4)
+
+![Movie Site](movie.png)
+
+![Movie Trailer Play](movie1.png)
+
+- Courtesy of fresh_tomatoes.py via Udacity
