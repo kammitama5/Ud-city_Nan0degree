@@ -17,10 +17,11 @@ Coursework and Projects for this course
 
 ![Turtle end](turtle_001.png)
 
-## Making a movie Website that displays trailers for and gives descriptions of your favourite movies! (Chapter 4)
+## Making a movie Website that gives descriptions of your favourite movies! (Chapter 4)
 
 <img src="movie.png" width="200">
 
+## And plays trailers from those movies (when image is clicked)
 
 <img src="movie1.png" width="200">
 
