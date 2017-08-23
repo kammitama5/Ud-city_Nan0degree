@@ -19,8 +19,10 @@ Coursework and Projects for this course
 
 ## Making a movie Website that displays trailers for and gives descriptions of your favourite movies! (Chapter 4)
 
-![Movie Site](movie.png)
+<img src="movie.png" width="200">
 
-![Movie Trailer Play](movie1.png)
+
+<img src="movie1.png" width="200">
+
 
 - Courtesy of fresh_tomatoes.py via Udacity
