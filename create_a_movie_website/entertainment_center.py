@@ -1,6 +1,8 @@
 #!python2
-import media 
-import fresh_tomatoes
+import media ## import from media file
+import fresh_tomatoes ## import from fresh_tomatoes file
+
+## instantiate class, create objects
 
 # toy story
 toy_story = media.Movie("Toy Story",
