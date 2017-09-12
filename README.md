@@ -11,6 +11,10 @@ Coursework and Projects for this course
 - Really grateful. You can also read about my 
   progress on my blog : https://kammitama5.github.io/
   
+## General Notes
+
+- [Literate Programming](http://www.literateprogramming.com/)
+  
  ## Using Turtle! (Chapter 4)
 
 ![Turtle start](turtle_000.png)
