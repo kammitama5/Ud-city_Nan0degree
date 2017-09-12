@@ -31,6 +31,14 @@ Coursework and Projects for this course
 
 ## Anaconda (Data Analyst) path 
 
-- Notes
+## Notes
 
-create with python 3 -> ```conda create -n filename python=3``` 
+- create with python 3 -> ```conda create -n filename python=3``` 
+
+- ```source activate``` or ```activate``` (Windows)
+
+- ```conda list``` to see packages installed 
+
+- ```conda install matplotlib numpy pandas jupyter notebook``` installs packages simultaneously
+
+## Tools 
