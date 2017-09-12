@@ -89,6 +89,11 @@ Coursework and Projects for this course
 
 - ```jupyter nbconvert --to html notebook.ipynb``` - convert notebook to HTML file (type in command line)
 
+## Create and run a slideshow 
+
+- ```jupyter nbconvert notebook.ipynb --to slides``` convert to slides
+
+- ```jupyter nbconvert notebook.ipynb --to slides --post serve``` - convert and immediately see it
 
 ## Tools 
 
