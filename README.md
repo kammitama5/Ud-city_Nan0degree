@@ -33,4 +33,4 @@ Coursework and Projects for this course
 
 - Notes
 
-create with python 3 ```conda create -n filename python=3``` 
+create with python 3 -> ```conda create -n filename python=3``` 
