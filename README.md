@@ -37,6 +37,10 @@ Coursework and Projects for this course
 
 ## Anaconda (Data Analyst) path 
 
+## General Jupyter Documentation
+
+- [Built-in magic commands](http://ipython.readthedocs.io/en/stable/interactive/magics.html)
+
 ## Notes On Command Line
 
 - create with python 3 -> ```conda create -n filename python=3``` 
