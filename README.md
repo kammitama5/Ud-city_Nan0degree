@@ -85,6 +85,10 @@ Coursework and Projects for this course
 %config InlineBackend.figure_format = 'retina
 ``` 
 
+## Converting Notebooks
+
+- ```jupyter nbconvert --to html notebook.ipynb``` - convert notebook to HTML file (type in command line)
+
 
 ## Tools 
 
