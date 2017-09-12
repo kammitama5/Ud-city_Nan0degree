@@ -75,7 +75,7 @@ Coursework and Projects for this course
 ```
 %matplotlib inline
 %config InlineBackend.figure_format = 'retina
-'``` 
+``` 
 
 
 ## Tools 
