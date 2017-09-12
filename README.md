@@ -14,6 +14,8 @@ Coursework and Projects for this course
 ## General Notes
 
 - [Literate Programming](http://www.literateprogramming.com/)
+
+- Literate Programming language -> [Eve](http://play.witheve.com/#/examples/quickstart.eve)
   
  ## Using Turtle! (Chapter 4)
 
