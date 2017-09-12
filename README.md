@@ -68,6 +68,10 @@ Coursework and Projects for this course
 
 - ```Shift+Ctrl+P``` -> access command palette 
 
+## Debugging code 
+
+- ```q```-> quit debugger 
+
 ## Images
 
 - For higher resolution images
