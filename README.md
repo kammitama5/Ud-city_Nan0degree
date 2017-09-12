@@ -41,4 +41,14 @@ Coursework and Projects for this course
 
 - ```conda install matplotlib numpy pandas jupyter notebook``` installs packages simultaneously
 
+-```conda search``` search term
+
 ## Tools 
+
+- **Anaconda Navigator:** GUI for managing environments and packages
+
+- **Anaconda Prompt:** Terminal can use with cli to manage envs and packages
+
+- **Spyder:** IDE for scientific development 
+
+
