@@ -45,6 +45,8 @@ Coursework and Projects for this course
 
 - ```conda env export > environment.yaml``` - pipe environment settings to yaml file
 
+- ```conda env remove -n env_name``` - removes specified environment (here named env_name)
+
 ## Tools 
 
 - **Anaconda Navigator:** GUI for managing environments and packages
