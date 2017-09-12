@@ -27,3 +27,10 @@ Coursework and Projects for this course
 
 
 - Courtesy of fresh_tomatoes.py via Udacity
+
+
+## Anaconda (Data Analyst) path 
+
+- Notes
+
+create with python 3 ```conda create -n filename python=3``` 
