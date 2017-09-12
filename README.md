@@ -43,6 +43,8 @@ Coursework and Projects for this course
 
 -```conda search``` search term
 
+```conda env export > environment.yaml``` - pipe environment settings to yaml file
+
 ## Tools 
 
 - **Anaconda Navigator:** GUI for managing environments and packages
