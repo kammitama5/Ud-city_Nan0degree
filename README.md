@@ -41,9 +41,9 @@ Coursework and Projects for this course
 
 - ```conda install matplotlib numpy pandas jupyter notebook``` installs packages simultaneously
 
--```conda search``` search term
+- ```conda search``` search term
 
-```conda env export > environment.yaml``` - pipe environment settings to yaml file
+- ```conda env export > environment.yaml``` - pipe environment settings to yaml file
 
 ## Tools 
 
