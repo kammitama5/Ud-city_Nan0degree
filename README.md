@@ -37,7 +37,7 @@ Coursework and Projects for this course
 
 ## Anaconda (Data Analyst) path 
 
-## Notes In Command Line
+## Notes On Command Line
 
 - create with python 3 -> ```conda create -n filename python=3``` 
 
@@ -53,7 +53,7 @@ Coursework and Projects for this course
 
 - ```conda env remove -n env_name``` - removes specified environment (here named env_name)
 
-## Notes in Jupyter Notebook 
+## Notes On Jupyter Notebook 
 
 - ```y``` -> make sure clicking code cell but not *in* code (mark-down to code cell)
 - ```m``` -> code cell to Markdown
@@ -67,6 +67,16 @@ Coursework and Projects for this course
 - ```S``` -> save
 
 - ```Shift+Ctrl+P``` -> access command palette 
+
+## Images
+
+- For higher resolution images
+
+```
+%matplotlib inline
+%config InlineBackend.figure_format = 'retina
+'``` 
+
 
 ## Tools 
 
